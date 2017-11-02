@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "description": "Frontend for a django based SPA",
+  "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "Augusto Goulart <augusto@goulart.me>",
   "private": true,

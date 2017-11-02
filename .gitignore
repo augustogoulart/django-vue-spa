@@ -1,13 +1,13 @@
 .DS_Store
 node_modules/
-dist/
+dist
 npm-debug.log
 yarn-error.log
 __pycache__
-staticfiles/
+staticfiles
 *.sqlite3
 # Editor directories and files
-.idea/
+.idea
 *.suo
 *.ntvs*
 *.njsproj
