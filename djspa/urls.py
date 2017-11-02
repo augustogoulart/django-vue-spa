@@ -19,5 +19,6 @@ from djspa.core import views
 
 urlpatterns = [
     url(r'^$', views.home),
+    url(r'^api/$', views.return_data),
     url(r'^admin/', admin.site.urls),
 ]
